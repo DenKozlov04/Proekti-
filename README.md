@@ -1,16 +1,26 @@
 # Proekti-
 neliela programma
 
-(1 variants)
-Ankete ar jautājumiem
 
-Izvadas ankete ar jautājumiem(apmēram 5 - 10 jautājumi) un ar atbildes variantiem(jā vai nē)
-Cilvēks ievada atbildes un pēc visas darbīnas programma izvada tavas atbildes un anketu ar pareizam atbildem.
+##Ankete ar jautājumiem(1 variants)
 
-(2 variants, ja neizdevas izdarīt 1 variantu)
-Matricu reizināšana
+##Apraksts
+   -Izvadas ankete ar jautājumiem(apmēram 5 - 10 jautājumi) un ar atbildes variantiem(jā vai nē)
+   -Cilvēks ievada atbildes un pēc visas darbīnas programma izvada tavas atbildes un anketu ar pareizam atbildem.
 
-(3 variants visgrutākais)
-Spele krustites un nulles
+##Matricu reizināšana(2 variants, ja neizdevas izdarīt 1 variantu)
 
-(pagaidam nezinu kas to izdarīt)
+##Apraksts
+  -cilvēks ievada 6 skaitļus vienai matricai un 6 skaitļus otrai matricai un programma sareizina 2 tos matricas 
+
+##Spele krustites un nulles vai  Minesweeper(3 variants visgrutākais)
+  -(krustites un nulles)cilvēks būs ievadīt burtu un rutiņas numuru(kur būs atrodas x )
+  un programma ievada savu burtu)
+  -Minesweeper cilvēks būs ievadīt  rutiņas skaitļi un programma pateica vai tu uzvara vai ne.
+  
+
+
+(pagaidam tieši nezinu kas to izdarīt)
+## Izmantotās tehnoloģijas
+	- C++
+	- SFML library
