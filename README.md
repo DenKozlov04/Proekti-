@@ -22,5 +22,7 @@ neliela programma
 
 (pagaidam tieši nezinu kas to izdarīt)
 ## Izmantotās tehnoloģijas
-	- C++
-	- SFML library
+    - 
+
+## Izmantotie avot
+    - 
